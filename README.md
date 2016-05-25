@@ -5,5 +5,5 @@ Can be disassembled for storage without tools. Legs are fastened by hand. Turnin
 Part of the [OpenEventSpace](https://github.com/etemu/OpenEventSpace)
 
 ![](Quick%20Desk%20Ariane%20760mm.png)
-![](Quick%20Desk%20Ariane%20760mm%20v4%20100kg%20load.png)
+![](simulations/Quick%20Desk%20Ariane%20760mm%20v4%20100kg%20load.png)
 
