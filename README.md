@@ -6,6 +6,7 @@ Part of the [OpenEventSpace](https://github.com/etemu/OpenEventSpace)
 
 ![](Quick%20Desk%20Ariane%20760mm.png)
 ![](simulations/Quick%20Desk%20Ariane%20760mm%20v4%20100kg%20load.png)
+![](20161004_182606-ariane.jpg)
 
 Making of (click for video):
 
